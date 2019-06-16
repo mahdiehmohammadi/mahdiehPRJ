@@ -1,2 +1,4 @@
-list[1, 2, 3, 4]
-print(list)
+a = 10
+cond = a % 2 == 0
+if cond:
+    print (even)
